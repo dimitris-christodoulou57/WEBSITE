@@ -1,1 +1,3 @@
-Final project for CE 426 by Christodoulou Dimitrios and Karamellios Sotirios
+# Final project 
+
+ECE 417 by Christodoulou Dimitrios and Karamellios Sotirios
